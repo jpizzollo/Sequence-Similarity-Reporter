@@ -15,7 +15,7 @@ target="atctacagaatgatcaaacccagaattgttctccttatttttgtttctggaaaagttgtattaacaggtgct
 ```
 Set the minimum number of matching bases to report
 ```
-threshold=7
+threshold=8
 
 ```
 
